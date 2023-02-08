@@ -1,4 +1,8 @@
 # ctf-platform
+# install:
+pip install -r requirements.txt
+uvicorn main:app --reload (navigate /docs for api info)
+
 # todo:
 1. split logic into classes (database.py)
 2. figure out with challenge solving
