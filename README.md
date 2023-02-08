@@ -6,3 +6,4 @@
 4. generator for flags + links
 5. generator for web-challenges
 6. api for challenges
+7. separate logic in project, think more about architecture 
