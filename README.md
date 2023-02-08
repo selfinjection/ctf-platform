@@ -1,6 +1,7 @@
 # ctf-platform
 # install:
 pip install -r requirements.txt
+
 uvicorn main:app --reload (navigate /docs for api info)
 
 # todo:
